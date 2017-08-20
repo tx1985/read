@@ -7,8 +7,15 @@ A reading list, once per week, to stay up to date
 * Y Combinator Blog: https://blog.ycombinator.com/
 * Andreessen Horowitz Blog: https://a16z.com/
 
+Rather seldomly updated:
+* Google DeepMind Blog: https://deepmind.com/blog/
+* Google Research Blog: https://research.googleblog.com/
+* Open AI Blog: https://blog.openai.com/
+
+
 * www.Facebook.com
 * www.Linkedin.com
+
 
 * www.Politico.com
 * www.BusinessInsider.com
