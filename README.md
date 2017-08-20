@@ -1,13 +1,14 @@
 # read
 A reading list, once per week, to stay up to date
 
+# AI
 * Newsletter Import.AI (weekly): http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c
 * Newsletter Nathan Benaich on AI (monthly): https://www.nathan.ai
 * Techcrunch News: https://www.techcrunch.com
 * Y Combinator Blog: https://blog.ycombinator.com/
 * Andreessen Horowitz Blog: https://a16z.com/
 
-Rather seldomly updated:
+
 * Google DeepMind Blog: https://deepmind.com/blog/
 * Google Research Blog: https://research.googleblog.com/
 * Open AI Blog: https://blog.openai.com/
