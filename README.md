@@ -2,6 +2,7 @@
 A reading list, once per week, to stay up to date
 
 # Tech
+* MIT Technology Review: https://www.technologyreview.com/
 * Newsletter Import.AI (weekly): http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c
 * Newsletter Nathan Benaich on AI (monthly): https://www.nathan.ai
 * Techcrunch News: https://www.techcrunch.com
