@@ -17,6 +17,9 @@ Seldomly updated:
 # Social News
 * www.Facebook.com
 * www.Linkedin.com
+* www.Skype.com
+* www.WhatsApp.com
+* www.Viber.com
 
 # General News
 * www.Politico.com
