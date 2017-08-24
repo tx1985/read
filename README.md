@@ -9,7 +9,7 @@ A reading list, once per week, to stay up to date
 * Y Combinator Blog: https://blog.ycombinator.com/
 * Andreessen Horowitz Blog: https://a16z.com/
 * Cryptocoins + Blockchain Newsletter (monthly): https://www.getrevue.co/profile/control
-* Cryptocoins: 4 platforms
+* Cryptocoins: https://www.coinmarketcap.com and 4 platforms
 
 Seldomly updated:
 * Google DeepMind Blog: https://deepmind.com/blog/
