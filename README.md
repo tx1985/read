@@ -8,6 +8,7 @@ A reading list, once per week, to stay up to date
 * Techcrunch News: https://www.techcrunch.com
 * Y Combinator Blog: https://blog.ycombinator.com/
 * Andreessen Horowitz Blog: https://a16z.com/
+* Cryptocoins + Blockchain Newsletter: https://www.getrevue.co/profile/control
 
 Seldomly updated:
 * Google DeepMind Blog: https://deepmind.com/blog/
