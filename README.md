@@ -16,17 +16,17 @@ Seldomly updated:
 * Google Research Blog: https://research.googleblog.com/
 * Open AI Blog: https://blog.openai.com/
 
+
+# General News
+* www.Politico.com
+* www.Spiegel.de
+* www.ManagerMagazin.de
+* www.Bild.de
+
+
 # Social News
 * www.Facebook.com
 * www.Linkedin.com
 * www.Skype.com
 * www.WhatsApp.com
 * www.Viber.com
-
-# General News
-* www.Politico.com
-* www.BusinessInsider.com
-* www.FoxNews.com
-* www.Spiegel.de
-* www.ManagerMagazin.de
-* www.Bild.de
