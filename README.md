@@ -3,10 +3,10 @@
 * www.techcrunch.com
 * https://jack-clark.net (newsletter open.ai)
 * https://www.technologyreview.com/
+* https://news.ycombinator.com/
 * https://blog.ycombinator.com/
 * https://a16z.com/
 * https://www.getrevue.co/profile/nathanbenaich/
-* https://deepmind.com/blog/
 * https://www.quantamagazine.org/
 * www.Politico.com
 * www.Spiegel.de
