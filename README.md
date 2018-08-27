@@ -1,11 +1,10 @@
-# A reading list for once per week
+# A reading list for fun, and to stay up to date
 
 * https://jack-clark.net
 * https://a16z.com
 ---
 * http://www.sciencemag.org/
 * www.nature.com
-* https://www.nejm.org/
 ---
 * https://www.techcrunch.com
 * https://news.ycombinator.com/over?points=300
