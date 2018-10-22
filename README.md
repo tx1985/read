@@ -1,4 +1,4 @@
-# A reading list for fun, and to stay up to date
+# Reading list
 
 * https://jack-clark.net
 * https://a16z.com
