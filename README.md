@@ -4,9 +4,7 @@
 * https://www.techcrunch.com
 * https://jack-clark.net
 * https://a16z.com
----
 * https://www.technologyreview.com/
 * https://www.quantamagazine.org/
----
 * https://aeon.co
 * https://www.philosophynow.org
