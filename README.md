@@ -7,8 +7,6 @@
 ---
 * https://www.technologyreview.com/
 * https://www.quantamagazine.org/
-* http://www.sciencemag.org/
-* www.nature.com
 ---
 * https://aeon.co
 * https://www.philosophynow.org
