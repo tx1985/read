@@ -1,4 +1,4 @@
-# Reading list
+# Interesting reading material
 
 1. https://news.ycombinator.com/over?points=300
 2. https://www.technologyreview.com/
