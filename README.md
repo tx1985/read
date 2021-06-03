@@ -1,8 +1,7 @@
 # Reading list
 
-* https://news.ycombinator.com/over?points=300
-* https://a16z.com
-* https://www.technologyreview.com/
-* https://www.quantamagazine.org/
-* https://aeon.co
-* https://www.philosophynow.org
+1. https://news.ycombinator.com/over?points=300
+2. https://www.technologyreview.com/
+3. https://www.quantamagazine.org/
+4. https://aeon.co
+5. https://www.philosophynow.org
